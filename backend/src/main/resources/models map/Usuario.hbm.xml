@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name = "com.energylook.backend.models.Usuario" table = "usuario">
+
+        <meta attribute = "class-description">
+            This class contains the employee detail.
+        </meta>
+
+        <id type = "int" column = "id" name="id">
+            <generator class="native"/>
+        </id>
+
+        <property name = "nombre" column = "nombre" type = "int"/>
+        <property name = "constrasena" column = "contraseña" type = "string"/>
+        <property name = "email" column = "email" type = "string"/>
+        <property name = "fecha_creacion" column = "fecha_creacion" type = "date"/>
+        <property name = "ultima_entrada" column = "ultima_entrada" type = "date"/>
+
+
+    </class>
+</hibernate-mapping>
