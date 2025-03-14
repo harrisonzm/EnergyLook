@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad9a17c8-e61f-4b26-96c5-16a5e48ad435" name="Changes" comment="mapping of the entities">
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/energylook/backend/models/Consumo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/energylook/backend/models/Produccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/energylook/backend/models/PuntoHistorico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/models map/Consumo.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/models map/Produccion.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/models map/PuntoHistorico.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/models map/Usuario.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/energylook/backend/models/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/energylook/backend/models/Usuario.java" afterDir="false" />
-    </list>
+    <list default="true" id="ad9a17c8-e61f-4b26-96c5-16a5e48ad435" name="Changes" comment="mapping of the entities" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +165,7 @@
       <workItem from="1741740748660" duration="9509000" />
       <workItem from="1741752811158" duration="4353000" />
       <workItem from="1741819237208" duration="2652000" />
-      <workItem from="1741872349628" duration="5318000" />
+      <workItem from="1741872349628" duration="5415000" />
     </task>
     <task id="LOCAL-00001" summary="new files backend">
       <option name="closed" value="true" />
@@ -226,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741754682247</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mapping of the entities">
+      <option name="closed" value="true" />
+      <created>1741879739895</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741879739895</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
